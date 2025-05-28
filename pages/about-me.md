@@ -4,35 +4,34 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Aamari Joyner
+  role: Senior,Accounting major at Alabama A&M University
+  image: /assets/images/IMG_E0637.JPG
+  linkedin: https://www.linkedin.com/in/Aamari-Joyner/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a senior studying Accounting at Alabama A&M University in Huntsville, Alabama. I expect to graduate in 2025.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My work explores the intersection of Financial analysis and reporting. Also explores other bases such as Audit& compliance checks in order to help businesses continue profiting even when their is a loss.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on Accounting, Outdoor relaxation, Binge watching different series, and getting closer to God .
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
+    - icon:🧘🏾‍♀️
+      title: Outdoor Relaxation
       description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
-
+    - icon: 📺
+      title: Binge Watching different series
+      description: I enjoy watching different tv shows such as old 90s sitcoms. Martin is one of my favorites.
+    - icon: 🛐
+      title: Drawing Closer to God
+      description: I love molding myself into the God fearing woman,God has promised me to be. The journey that I'm on is very peaceful and mindblowing.
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/IMG_E0637.JPG
+      caption: my lovely & Professional headshot
+    - image: /assets/images/IMG_0638.PNG
+      caption: Outside enjoying the sunlight ☀️
+    - image: /assets/images/IMG_0639.PNG
+      caption: Me and my village 👪
+    - image: /assets/images/IMG_0641.PNG
+      caption: Me at Church ⛪
 ---
