@@ -4,7 +4,7 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Aamari Joyner
+  name: "Aamari Joyner"
   role: Senior, Accounting major at Alabama A&M University
   image: /assets/images/IMG_E0637.JPG
   linkedin: https://www.linkedin.com/in/Aamari-Joyner/
