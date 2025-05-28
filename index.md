@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about numbers and understanding profits & customizing different jewelry pieces "
 
 linkedin: https://www.linkedin.com/in/Aamari-Joyner
-image: /assets/images/IMG_E0637.JPG
+image:/assets/images/IMG_E0637.JPG
 ---
