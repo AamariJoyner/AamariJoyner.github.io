@@ -16,13 +16,13 @@ about:
      When I’m not working on Accounting, Outdoor relaxation, Binge watching different series, and getting closer to God .
 
   hobbies:
-    - icon:🧘🏾‍♀️
+    - icon: 🧘🏾‍♀️
       title: Outdoor Relaxation
       description: Sitting outside and enjoying the sunlight is something that brings me great peace.
-    - icon: 📺
+    - icon:  📺
       title: Binge Watching different series
       description: I enjoy watching different tv shows such as old 90s sitcoms. Martin is one of my favorites.
-    - icon: 🛐
+    - icon:  🛐
       title: Drawing Closer to God
       description: I love molding myself into the God fearing woman,God has promised me to be. The journey that I'm on is very peaceful and mindblowing.
   gallery:
