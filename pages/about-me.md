@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Aamari Joyner
   role: Senior,Accounting major at Alabama A&M University
-  image: /assets/images/IMG_E0637.JPG
+  image:/assets/images/IMG_E0637.JPG
   linkedin: https://www.linkedin.com/in/Aamari-Joyner/
   bio: |
       I’m currently a senior studying Accounting at Alabama A&M University in Huntsville, Alabama. I expect to graduate in 2025.
