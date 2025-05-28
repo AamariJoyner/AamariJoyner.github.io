@@ -8,12 +8,12 @@ about:
   role: Senior, Accounting major at Alabama A&M University
   image: /assets/images/IMG_E0637.JPG
   linkedin: https://www.linkedin.com/in/Aamari-Joyner/
-  bio: |
-   I’m currently a senior studying Accounting at Alabama A&M University in Huntsville, Alabama. I expect to graduate in 2025.
+bio: |
+     I’m currently a senior studying Accounting at Alabama A&M University in Huntsville, Alabama. I expect to graduate in 2025.
 
-   My work explores the intersection of Financial analysis and reporting. Also explores other bases such as Audit and compliance checks in order to help businesses continue profiting even when their is a loss.
+     My work explores the intersection of Financial analysis and reporting. Also explores other bases such as Audit and compliance checks in order to help businesses continue profiting even when their is a loss.
 
-   When I’m not working on Accounting, Outdoor relaxation, Binge watching different series, and getting closer to God .
+     When I’m not working on Accounting, Outdoor relaxation, Binge watching different series, and getting closer to God .
 
   hobbies:
     - icon:🧘🏾‍♀️
