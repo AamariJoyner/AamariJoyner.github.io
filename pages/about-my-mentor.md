@@ -4,23 +4,23 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  name: Raisa Nusrat Chowdhury
+  title: Master's degree,Computer and Information Sciences
+  image: /assets/images/Graduate mentor .jpeg
+  website: https://www.linkedin.com/in/raisa-nusrat-chowdhury-48691a1a5/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Raisa Nusrat Chowdhury is a Graduatee Research Assistant at Morgan State University, where she focuses on helping undergraduate students from all around the world with projects on Computer Vision and Informatics Labs.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Beyond the lab, Raisa has been a scholar for excellence due to her going to an Ideal School and College,following up with her Bachelor fo Science in Computer Science, and finishing up with her Master's Degree at the lovely Morgan State University. Her support so far in this program and getting to know the Project we are working on she has been not only helpful, but patient and willing to teach.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr. Baruti N. Kopano
+  title: Ph.D Professor, Morgan State University
+  image: /assets/images/faculty mentor.jpeg
+  website: https://www.linkedin.com/in/baruti-kopano-34755a8/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Dr. Baruti N. Kopano is a pioneering figure at Morgan State University. He has been apart of Morgan State for 20 years and still has yet to quit his strive for greatness. He previously gained his Bachelors Degree at Morgan State in Telecommunications, continued his education by getting his Master's at Syracuse University and then finished with his Ph.D. at Indian University of Pennsylvania.
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    He's very passionate about African Diaspora and really takes his time with figuring out ways to improve many tools and systems for the African community. He has also been a great teacher so far. Im looking forward to learning more from him.
 
 ---
