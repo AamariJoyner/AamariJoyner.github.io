@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Aamari Joyner
-description: CEAMLS SAIRI Summer 2025 Research Website
+description: CEAMLS SAIRI Summer 2025 Research Website.
 
 motto: "I can do all things through Christ who strenghtens me."
 
