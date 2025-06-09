@@ -9,7 +9,7 @@ quick_facts:
   - "🎓 Senior, Accounting @ Alabama A&M University"
   - "🔬 Research: African Diaspora + AI-Powered tools"
   - "📍 Based in Ozark, AL"
-  - "🚀 Passionate about numbers and understanding profits & customizing different jewelry pieces "
+  - "🚀 Passionate about numbers and understanding profits & customizing different jewelry pieces"
 
 linkedin: https://www.linkedin.com/in/Aamari-Joyner
 image:/assets/images/IMG_E0637.JPG
