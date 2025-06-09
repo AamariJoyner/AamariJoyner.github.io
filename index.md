@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Ozark, AL"
   - "🚀 Passionate about numbers and understanding profits & customizing different jewelry pieces."
 
-linkedin: https://www.linkedin.com/in/Aamari-Joyner
-image: assets/images/IMG_E0637.JPG
+ linkedin: https://www.linkedin.com/in/Aamari-Joyner
+ image: assets/images/IMG_E0637.JPG
 ---
